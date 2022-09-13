@@ -30,8 +30,10 @@
 ![3](https://user-images.githubusercontent.com/82360230/189916431-c1c9476f-36b4-4273-9b32-851bdad2b104.png)
 
 ## 📗 기능 설계
+(1) 전체적인 기능도
 ![2](https://user-images.githubusercontent.com/82360230/189916425-f3b6029d-6363-4427-a227-3be1a28cc2b6.png)
 
+(2) 세부 기능도
 ![4](https://user-images.githubusercontent.com/82360230/189916439-387d7de9-53bf-4aed-876a-a4db3be48c26.png)
 
 ## 📘 기능 구현
