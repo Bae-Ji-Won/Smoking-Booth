@@ -15,12 +15,11 @@
 <br />
 
 ## ☁️ 프로젝트 주요 기능 
-
 #### &nbsp;&nbsp; 1. 버튼을 누르면 출입구 Open 
 #### &nbsp;&nbsp; 2. 사람이 들어오면 LCD로 인원수 출력
 #### &nbsp;&nbsp; 3. 문이 제대로 닫히지 않았을 경우 LED 점등
 #### &nbsp;&nbsp; 4. 연기가 감지되면 환풍기 작동
-
+![1](https://user-images.githubusercontent.com/82360230/189916413-2fb921e4-3158-46c7-b1d6-053dc425471e.png)
 <br />
 
 ## 🔧 주요 부품
