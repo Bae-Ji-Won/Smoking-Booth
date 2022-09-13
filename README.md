@@ -40,27 +40,15 @@
 ### 1. 문 자동 오픈
 ![문_AdobeExpress](https://user-images.githubusercontent.com/82360230/189928460-ce607146-5050-4f5b-96bd-78282a5a7f78.gif)
 <br>
-(1) 버튼 클릭<br><br>
-(2) 서보모터 동작<br><br>
-(3) 일정 시간 후 자동으로 닫힘
-<br>
+
 
 ### 2. 인원수 체크
 ![인원수_AdobeExpress](https://user-images.githubusercontent.com/82360230/189928452-b50f8ce2-1fe8-44dc-84d2-04253c9bfdd1.gif)
 <br>
-(1) 초음파 센서를 통한 지나간 사람 체크<br><br>
-(2) 코드 내부에서 입장 퇴장 판단<br>
-    - 2개의 초음파 센서를 5cm정도 간격을 두고 설치함(앞쪽의 센서를 a, 뒤쪽의 센서를 b라 가정)<br>
-    - a센서에 먼저 감지가 된 후 b센서에 감지가 되면 입장한 것으로 판단하여 숫자 증가<br>
-    - b센서에 먼저 감지가 된 후 a센서에 감지가 되면 퇴장한 것으로 판단하여 숫자 감소<br><br>
-(3) FND센서를 통한 현재 흡연부스 안 인원 체크<br>
-    - 인원이 1명이상일때 자동으로 LED센서를 통해 조명이 켜짐<br>
-    - 인원이 0명일때 자동으로 LED센서가 꺼짐<br>
+
     
 ### 3. 가스센서, 팬동작
 ![가스센서_AdobeExpress](https://user-images.githubusercontent.com/82360230/189928465-8d4c43c6-e3ed-454c-a999-d5553f348777.gif)
 ![팬동작_AdobeExpress](https://user-images.githubusercontent.com/82360230/189928403-ba34d05e-3cf3-4ccc-a83c-36798dd4dd5d.gif)
 <br>
-(1) 천장에 가스센서를 통해 흡연가스(연기) 감지<br><br>
-(2) 설정해놓은 가스 치수를 초과할 시 자동으로 FAN이 동작하게 됨<br><br>
-(3) FAN을 통해 내부의 연기를 외부로 배출시킴<br> 
+
