@@ -9,5 +9,5 @@
 # ⚙️ 기술 스택
 <div>
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry Pi-00599C?style=for-the-badge&logo=#A22846&logoColor=white">
+  <img src="https://img.shields.io/badge/Rasberry Pi-A22846?style=for-the-badge&logo=Rasberry Pi&logoColor=black">
 </div>
